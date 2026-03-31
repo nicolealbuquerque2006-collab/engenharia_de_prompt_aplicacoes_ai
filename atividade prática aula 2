@@ -1,0 +1,20 @@
+Prompt simples: Explique o que é um loop em programação
+Um loop em programação é uma estrutura que permite repetir um bloco de código várias vezes. Ele é usado quando queremos executar uma mesma ação repetidamente, sem precisar escrever o mesmo código várias vezes. 
+Existem diferentes tipos de loops, como o “for” e o “while”, que funcionam de maneiras diferentes, mas têm o mesmo objetivo de repetição.
+
+Prompt estruturado: Você é um professor de programação e deve explicar o conceito de loop para um estudante iniciante que nunca programou antes, organizando a resposta em tópicos, com um exemplo simples e um resumo final.
+O que é um loop?
+Um loop é uma estrutura usada para repetir um conjunto de instruções várias vezes em um programa.
+Para que serve?
+Ele evita a repetição manual de código, tornando o programa mais simples e organizado.
+Exemplo simples:
+for i in range(5):
+    print("Olá")
+Esse código imprime "Olá" 5 vezes.
+Resumo:
+Loop = repetição de código
+Facilita tarefas repetitivas
+Pode ser feito com estruturas como “for” e “while”
+
+O segundo prompt foi mais útil, pois forneceu uma resposta mais organizada e fácil de entender. A definição de papel, objetivo, contexto e formato reduziu a ambiguidade ao direcionar a explicação para um público específico 
+e determinar como a resposta deveria ser apresentada. Isso evitou uma resposta genérica e garantiu maior clareza, didática e estrutura na explicação.
