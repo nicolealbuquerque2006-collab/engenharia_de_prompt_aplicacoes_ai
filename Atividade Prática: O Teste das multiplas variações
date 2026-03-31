@@ -1,0 +1,56 @@
+Tarefa: Desenvolver um sistema simples de login em Python com validação de senha
+
+Prompt vago:
+Crie um sistema de login em Python.
+Resultado:
+Código simples
+Sem validação real
+Pouco útil
+
+Prompt Intermediário: 
+Crie um sistema de login em Python que permita cadastrar usuário e senha. 
+A senha deve ter pelo menos 8 caracteres. 
+Mostre um exemplo de uso.
+Resultado: 
+Já tem validação básica
+Mais organizado
+Ainda limitado
+
+Prompt Estruturado: 
+Você é um desenvolvedor experiente em Python.
+
+Crie um sistema de login com as seguintes características:
+- cadastro de múltiplos usuários
+- validação de senha (mínimo 8 caracteres, com letras e números)
+- função de login
+
+Contexto: sistema educacional simples para iniciantes.
+
+Restrições:
+- não usar banco de dados
+- usar apenas estruturas básicas (listas ou dicionários)
+
+Formato:
+- código comentado
+- explicação breve
+- exemplo de uso
+Resultado: 
+Código completo
+Estruturado em funções
+Atende todos os requisitos
+Explicação clara
+
+Avaliação com matriz de métricas:
+Critério    	Prompt 1	Prompt 2	Prompt 3
+Clareza    	   Baixa   	Média      Alta
+Completude     Baixa	  Média	     Alta
+Precisão	     Baixa	  Média	     Alta
+Organização	   Baixa	  Média	     Alta
+Utilidade real	Baixa	  Média    	Alta
+
+A comparação entre os prompts demonstra que o nível de estrutura influencia diretamente 
+a qualidade da resposta gerada. O prompt vago resultou em uma solução incompleta e pouco
+precisa, enquanto o prompt intermediário apresentou melhorias, mas ainda com limitações.
+Já o prompt altamente estruturado produziu uma resposta mais clara, completa e adequada
+ao contexto proposto. Isso evidencia que a aplicação de elementos como persona, contexto, 
+restrições e formato reduz ambiguidades e aumenta significativamente a precisão dos resultados.
