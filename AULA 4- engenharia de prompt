@@ -1,0 +1,29 @@
+# Função para calcular a média
+def minha_media(lista):
+    # Se a lista estiver vazia, avisa
+    if not lista:
+        return "Erro: Lista vazia!"
+
+    # Soma os números e divide pela quantidade
+    total = sum(lista)
+    quantidade = len(lista)
+    media = total / quantidade
+    return media
+
+# --- Testes ---
+
+# Teste 1: Números normais
+minha_lista1 = [10, 20, 30]
+print("Média 1:", minha_media(minha_lista1))
+
+# Teste 2: Lista vazia
+minha_lista2 = []
+print("Média 2:", minha_media(minha_lista2))
+
+# Teste 3: Outros números
+minha_lista3 = [5, 10, 15, 20]
+print("Média 3:", minha_media(minha_lista3))
+
+Média 1: 20.0
+Média 2: Erro: Lista vazia!
+Média 3: 12.5
